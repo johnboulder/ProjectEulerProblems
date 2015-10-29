@@ -1,4 +1,4 @@
-package PrimeSolution;
+package primeSolution;
 
 public class PrimeSolution {
 

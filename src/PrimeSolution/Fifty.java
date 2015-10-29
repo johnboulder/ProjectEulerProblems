@@ -1,4 +1,4 @@
-package PrimeSolution;
+package primeSolution;
 
 import java.util.HashMap;
 
